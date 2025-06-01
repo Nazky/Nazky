@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🇫🇷 I am French<br>📖 I like to learn things<br>🖥️ I like to build PC's<br>👨🏻‍💻 i like modifying stuffs<br>🤖 i am learning AI</p>
+<p align="left">🇫🇷 I am French<br>🇺🇸 I can speak English<br>📖 I like to learn things<br>🖥️ I like to build PC's<br>👨🏻‍💻 i like modifying stuffs<br>🤖 i am learning AI</p>
 
 ###
 
